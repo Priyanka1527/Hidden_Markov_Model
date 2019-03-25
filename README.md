@@ -19,6 +19,6 @@
 
 - Text data is very rich source of information and on applying proper Machine Learning techniques, we can implement a model to learn word correlations and distributions. To start with, the words can be represented in vector form such that similar words used in a similar context are close to each other in the vector space. Now applying different techniques e.g. Bag of words concept, the missing words can be filled given it's neighboring context. Hence to put this idea in general term, we can represent a word using an index and learn to represent it using a dimensional vector such that the mappings capture some relation and similarity in words.
 
-- The notebook **Text Generation & Simple Prediction.ipynb** contains the approach and implementation of a Hidden MArkov Model to 1) Generate new text and 2) Perform text prediction given some observations. The notebook is self contained and got all the steps/explanations documented in place. The results of both functions have been included as well.
+- The notebook **Text Generation & Simple Prediction.ipynb** contains the approach and implementation of a Hidden Markov Model to 1) Generate new text and 2) Perform text prediction given some observations. The notebook is self contained and got all the steps/explanations documented in place. The results of both functions have been included as well.
 
-                                   -----------------------------------------------
+          
