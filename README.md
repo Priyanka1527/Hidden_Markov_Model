@@ -7,8 +7,8 @@
 3. Choose a programming language (Python, C/C++, Java)
 4. Formulate ideas on how machine learning can be used to learn word correlations and distributions within the dataset
 5. Build a Hidden Markov Model to be able to programmatically
-  - Generate new text from the text corpus
-  - Perform text prediction given a sequence of words
+    - Generate new text from the text corpus
+    - Perform text prediction given a sequence of words
 6. Document your process and results
 7. Commit your source code, documentation and other supporting files to the git repository in GitHub
 
