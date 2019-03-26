@@ -21,4 +21,6 @@
 
 - The notebook **Text Generation & Simple Prediction.ipynb** contains the approach and implementation of a Hidden Markov Model to 1) Generate new text and 2) Perform text prediction given some observations. The notebook is self contained and got all the steps/explanations documented in place. The results of both functions have been included as well.
 
+- **Conclusion:** Hidden Markov Model is memoryless and hence as it could be noticed that the generated text didn't really mean anything or sensible. It works based on the probability of previous state only and doesn't remember the historical data of past states. However, we were able to generate the new text and also a suggestive complete sentence based on the prediction given an observation.
+
           
